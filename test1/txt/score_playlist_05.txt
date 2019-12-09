@@ -1,0 +1,1246 @@
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp1_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp1_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp1_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp1_jp2_REF_L.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp3_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp3_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp3_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp3_jp2_REF_L.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp4_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp4_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp4_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/Car_bpp4_jp2_REF_L.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp1_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp1_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp1_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp1_jp2_REF_L.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp5_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp5_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp5_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp5_jp2_REF_L.ppm", ENTER_3 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp7_jp2_REF_L.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp7_jp2_REF_L.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp7_jp2_REF_L.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/training/earth_bpp7_jp2_REF_L.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: gray4096.png
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_jp2_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_HM_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_HM_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_av1_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_HM_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_jp2_REF_R.ppm", ENTER_1 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_HM_REF_R.ppm", ENTER_2 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_HM_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_jp2_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_jp2_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp7_av1_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp1_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_jp2_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_jp2_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_jp2_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_jp2_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_jp2_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_jp2_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp1_jp2_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_jp2_REF_R.ppm", ENTER_3 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_HM_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_HM_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp1_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_jp2_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_jp2_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp4_av1_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_HM_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_HM_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_av1_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_av1_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_jp2_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp5_jp2_REF_R.ppm", ENTER_3 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp2_av1_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_av1_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp3_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp2_jp2_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_jp2_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_av1_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_HM_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_HM_REF_R.ppm", ENTER_1 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp4_jp2_REF_R.ppm", ENTER_1 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_av1_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_jp2_REF_R.ppm", ENTER_2 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp1_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_av1_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp1_jp2_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp7_av1_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_jp2_REF_R.ppm", ENTER_5 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_jp2_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp5_HM_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Dice1_bpp3_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp3_HM_REF_R.ppm", ENTER_3 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp5_av1_REF_R.ppm", ENTER_4 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/chess_bpp3_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_jp2_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_jp2_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_jp2_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp7_jp2_REF_R.ppm", ENTER_1 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Skull_bpp2_HM_REF_R.ppm", ENTER_3 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp4_HM_REF_R.ppm", ENTER_1 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/cat_bpp3_HM_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/ball_bpp3_HM_REF_R.ppm", ENTER_5 
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm
+[jpeg] [SHOWING] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm" 
+Failed to recognize file format.
+
+Playing: C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm
+ (+) Video --vid=1 (ppm)
+VO: [opengl] 4086x2038 rgb48
+
+Playing: gray4096.png
+[jpeg] [SCORE] "C:/cygwin64/home/Fiadeiro/Holo/SDR_82/graybg/Astronaut_bpp1_av1_REF_R.ppm", ENTER_4 
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+VO: [opengl] 4096x2048 rgba
+
+Playing: gray4096.png
+Failed to recognize file format.
+
+Playing: gray4096.png
+ (+) Video --vid=1 (png)
+
+Playing: gray4096.png
+Failed to recognize file format.
+
+
+Exiting... (Quit)
