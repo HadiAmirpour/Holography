@@ -1,0 +1,1330 @@
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+VO: [opengl] 4086x2038 gray16
+[jpeg] F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/training/Shat_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/training/Venus8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/training/Venus8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/training/Venus8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/training/Venus8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/training/Venus8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_5 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_5 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_5 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_5 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_HEVC_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Skull_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_3 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_HEVC_bpp4_400_4086x2038_16bits_REF_R.yuv", ENTER_5 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_av1_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/ball8KD_jp2_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_2 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/cat8KD_HEVC_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp3_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp3_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp3_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Astronaut_av1_bpp3_400_4086x2038_16bits_REF_R.yuv", ENTER_4 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv" 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/chess8KD_av1_bpp2_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+[jpeg] F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv 
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+[jpeg] [SHOWING] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv" 
+Failed to recognize file format.
+
+Playing: F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+[jpeg] [SCORE] "F:/Holo/LFQA/SDR_82/graybg/Dice1_jp2_bpp1_400_4086x2038_16bits_REF_R.yuv", ENTER_1 
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+Failed to recognize file format.
+
+Playing: back_444_4086x2038_10bits.yuv
+ (+) Video --vid=1 (mp-rawvideo)
+
+Playing: back_444_4086x2038_10bits.yuv
+Failed to recognize file format.
+
+
+Exiting... (Quit)
